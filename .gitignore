@@ -1,0 +1,17 @@
+/*
+
+# Dirs
+!/src
+!/static
+!/tests
+
+# Files
+!/.gitignore
+!/.npmrc
+!/package.json
+!/playwright.config.ts
+!/README.md
+!/svelte.config.js
+!/tsconfig.json
+!/vite.config.ts
+!/yarn.lock
